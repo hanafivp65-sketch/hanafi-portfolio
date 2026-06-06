@@ -117,7 +117,7 @@ sharing creative content through social media.
 👤 Name: Muhammad Hanafi<br>
 🎂 Age: 20<br>
 📍 Place: Tanur, Malappuram, Kerala<br>
-🎓 Education: Electrical & Electronics Engineering
+🎓 Education: Electrical & Electronics Engineering in SSM PTC Tirur
 </p>
 </div>
 
