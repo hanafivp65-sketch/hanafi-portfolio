@@ -124,8 +124,8 @@ sharing creative content through social media.
 <div class="section">
 <h2>Family</h2>
 <p>
-👨 Father: Rasak<br>
-👩 Mother: Sajitha<br>
+👨 Father: <br>
+👩 Mother: <br>
 👦 Brothers: 2<br>
 👧 Sister: 1
 </p>
